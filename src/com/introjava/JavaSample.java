@@ -11,7 +11,11 @@ public class JavaSample {
 		System.out.println();
 			
 		}
+	}
+		private void tamilbranch () {
+			System.out.println("tamilbranch new one add and editor by kumar");
 		}
+		
 		
 	}
 
